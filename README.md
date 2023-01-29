@@ -2,13 +2,14 @@
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=hj0302)](https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hj0302&show_icons=true&theme=default,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
   
   ### 데이터 분석가
   
   ---
   
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hj0302&show_icons=true&theme=default,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
  
 </div>
