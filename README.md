@@ -11,13 +11,13 @@
 
 <br>
 
-### 👀 Introduce
+<!-- ### 👀 Introduce
 
 <div>
     👋&nbsp; Hi there! I'm <b>python developer</b> who is always studying and wants to develop myself. 🚀<br/>
     I especially love Python. 💖<br/>
     I'm interested in devops, design pattern, clean code and MSA. 🤖<br/><br/>
-</div>
+</div> -->
 
 ### 💪 Skills
 
