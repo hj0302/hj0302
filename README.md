@@ -4,9 +4,7 @@ A passionate **Data Analyst & Engineer** 🚀 who continuously seeks to improve 
 ---
 
 ### 💡 About Me
-- 💻 **Tech Enthusiast** | Data Analysis & Engineering
-- 🎯 Passionate about **Microservices Architecture (MSA)**
-- 🛠️ Love **Design Patterns** and writing **Clean Code**
+- 💻 Data Analysis & Engineering
 - 🤖 Currently exploring **Large Language Models (LLMs)**
 
 ---
